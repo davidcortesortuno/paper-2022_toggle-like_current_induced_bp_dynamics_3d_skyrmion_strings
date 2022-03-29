@@ -1,0 +1,72 @@
+//+build ignore
+
+cells := 5e-9
+Lx := 1500e-9
+Ly := 700e-9
+Lz := 200e-9
+
+ilx := trunc(Lx / cells)
+ily := trunc(Ly / cells)
+ilz := trunc(Lz / cells)
+print("lx =", ilx, "ly =", ily, "lz =", ilz)
+
+SetGridSize(ilx, ily, ilz)
+SetCellSize(cells, cells, cells)
+
+Ac := 5.72957795e-12
+Dc := 0.6e-3
+Ms := 4.60545e5
+Msat.Set(Ms)
+Aex.Set(Ac)
+Dbulk.Set(Dc)
+// Alpha.Set(0.02)
+LD := 4 * Pi * (Ac) / (Dc)
+// BD := 0.5 * (Dc * Dc) / (Ac * Ms)
+B_ext.Set(Vector(0, -100e-3, 0))
+
+// Conical phase angle params:
+// BDratio := 0.0 / BD
+
+// Magnetisation ---------------------------------------------------------
+
+// Tube at 0.5 Lx separation
+m.loadfile("../two_tubes_separation_Co8Zn9Mn3/two_tubes_D_0d6e-3_A_5d7295e-12_LD_120nm.out/m_tubeSep_005_pLx_By_-000100_mT.ovf")
+
+// -----------------------------------------------------------------------
+
+TableAdd(E_total)
+TableAdd(B_ext)
+TableAdd(E_exch)
+TableAdd(MaxTorque)
+
+// Relax with conjugate gradient:
+MinimizerStop = 1e-6
+// StopMaxDm = 1e-6
+
+// Relax with LLG:
+Alpha.Set(0.9)
+DoPrecess = false
+RelaxTorqueThreshold = 1e-3
+
+// AutoSave(&M, 5e-10)
+TableAutoSave(5e-10)
+
+Bmin := -201e-3
+Bstep := 5e-3
+simname := Sprintf("")
+
+for B := (-100e-3); B >= Bmin; B -= Bstep {
+    
+    B_ext.Set(vector(0, B, 0))
+
+    // Relax with LLG and then minimize with SD
+    // Run(3e-9)
+    // TableSave()
+
+    Minimize()   // small changes best minimized by minimize()
+    TableSave()
+
+    // Save the magnetisation:
+    simname = Sprintf("m_By_%06.0f_mT", B * 1000)
+    SaveAs(m, simname)
+}
