@@ -1,0 +1,12 @@
+MPI_210526027_a.xim - IP field, 0 mT, C-
+MPI_210526028_a.xim - IP field, 0 mT, C+
+MPI_210526029_a.xim - IP field, plus 20 mT, C+
+MPI_210526030_a.xim - IP field, plus 20 mT, C-
+MPI_210526031_a.xim - IP field, plus 40 mT, C-
+MPI_210526032_a.xim - IP field, plus 40 mT, C+
+MPI_210526033_a.xim - IP field, plus 60 mT, C+
+MPI_210526034_a.xim - IP field, plus 60 mT, C-
+MPI_210526035_a.xim - IP field, plus 80 mT, C-
+MPI_210526036_a.xim - IP field, plus 80 mT, C+
+MPI_210526037_a.xim - IP field, plus 100 mT, C+
+MPI_210526038_a.xim - IP field, plus 100 mT, C-

@@ -1,0 +1,33 @@
+MPI_210525020_a.xim - OOP field, minus 250 mT, C+
+MPI_210525021_a.xim - OOP field, minus 250 mT, C-
+MPI_210525022_a.xim - OOP field, minus 200 mT, C-
+MPI_210525023_a.xim - OOP field, minus 200 mT, C+
+MPI_210525024_a.xim - OOP field, minus 150 mT, C+
+MPI_210525025_a.xim - OOP field, minus 150 mT, C-
+MPI_210525026_a.xim - OOP field, minus 125 mT, C-
+MPI_210525027_a.xim - OOP field, minus 125 mT, C+
+MPI_210525028_a.xim - OOP field, minus 100 mT, C+
+MPI_210525029_a.xim - OOP field, minus 100 mT, C-
+MPI_210525030_a.xim - OOP field, minus 75 mT, C-
+MPI_210525031_a.xim - OOP field, minus 75 mT, C+
+MPI_210525032_a.xim - OOP field, minus 50 mT, C+
+MPI_210525033_a.xim - OOP field, minus 50 mT, C-
+MPI_210525034_a.xim - OOP field, minus 25 mT, C-
+MPI_210525035_a.xim - OOP field, minus 25 mT, C+
+MPI_210525036_a.xim - OOP field, 0 mT, C+
+MPI_210525037_a.xim - OOP field, 0 mT, C-
+MPI_210525038_a.xim - OOP field, plus 25 mT, C-
+MPI_210525039_a.xim - OOP field, plus 25 mT, C+
+MPI_210525040_a.xim - OOP field, plus 50 mT, C+
+MPI_210525041_a.xim - OOP field, plus 50 mT, C-
+MPI_210525042_a.xim - OOP field, plus 75 mT, C-
+MPI_210525043_a.xim - OOP field, plus 75 mT, C+
+MPI_210525044_a.xim - OOP field, plus 100 mT, C+
+MPI_210525045_a.xim - OOP field, plus 100 mT, C-
+MPI_210525046_a.xim - OOP field, plus 150 mT, C-
+MPI_210525047_a.xim - OOP field, plus 150 mT, C+
+MPI_210525048_a.xim - OOP field, plus 200 mT, C+
+MPI_210525049_a.xim - OOP field, plus 200 mT, C-
+MPI_210525050_a.xim - OOP field, plus 250 mT, C-
+MPI_210525051_a.xim - OOP field, plus 250 mT, C+
+

@@ -1,0 +1,47 @@
+MPI_210526052_a.xim - IP field, plus 20 mT, C-
+MPI_210526053_a.xim - IP field, plus 20 mT, C+
+
+MPI_210526056_a.xim - IP field, plus 40 mT, C-
+MPI_210526057_a.xim - IP field, plus 40 mT, C+
+
+MPI_210526059_a.xim - IP field, plus 60 mT, C-
+MPI_210526060_a.xim - IP field, plus 60 mT, C+
+
+MPI_210526061_a.xim - IP field, plus 60 mT, C-
+MPI_210526062_a.xim - IP field, plus 60 mT, C+
+
+MPI_210526063_a.xim - IP field, plus 70 mT, C-
+MPI_210526064_a.xim - IP field, plus 70 mT, C+
+
+MPI_210526068_a.xim - IP field, plus 20 mT, C-
+MPI_210526070_a.xim - IP field, plus 20 mT, C+
+
+MPI_210526071_a.xim - IP field, plus 40 mT, C+
+MPI_210526072_a.xim - IP field, plus 40 mT, C-
+
+MPI_210526073_a.xim - IP field, plus 50 mT, C-
+MPI_210526074_a.xim - IP field, plus 50 mT, C+
+
+MPI_210526075_a.xim - IP field, plus 60 mT, C+
+MPI_210526076_a.xim - IP field, plus 60 mT, C-
+
+MPI_210526077_a.xim - IP field, plus 70 mT, C-
+MPI_210526078_a.xim - IP field, plus 70 mT, C+
+
+MPI_210526079_a.xim - IP field, plus 80 mT, C+
+MPI_210526080_a.xim - IP field, plus 80 mT, C-
+
+MPI_210526082_a.xim - IP field, plus 55 mT, C-
+MPI_210526083_a.xim - IP field, plus 55 mT, C+
+
+MPI_210526084_a.xim - IP field, plus 60 mT, C+
+MPI_210526085_a.xim - IP field, plus 60 mT, C-
+
+MPI_210526086_a.xim - IP field, plus 65 mT, C-
+MPI_210526087_a.xim - IP field, plus 65 mT, C+
+
+MPI_210526088_a.xim - IP field, plus 70 mT, C+
+MPI_210526089_a.xim - IP field, plus 70 mT, C-
+
+MPI_210526088_a.xim - IP field, plus 70 mT, C+
+MPI_210526089_a.xim - IP field, plus 70 mT, C-

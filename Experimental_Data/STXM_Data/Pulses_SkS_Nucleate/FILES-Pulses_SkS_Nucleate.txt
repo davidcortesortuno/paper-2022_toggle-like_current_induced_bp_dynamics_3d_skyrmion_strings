@@ -1,0 +1,47 @@
+Initial State
+MPI_210529048_a.xim - IP field, plus 62 mT, C+
+MPI_210529049_a.xim - IP field, plus 62 mT, C-
+
+Pulse 1
+MPI_210529050_a.xim - IP field, plus 62 mT, C-
+MPI_210529051_a.xim - IP field, plus 62 mT, C+
+
+Pulse 2
+MPI_210529052_a.xim - IP field, plus 62 mT, C+
+MPI_210529053_a.xim - IP field, plus 62 mT, C-
+
+Pulse 3
+MPI_210529054_a.xim - IP field, plus 62 mT, C-
+MPI_210529055_a.xim - IP field, plus 62 mT, C+
+
+Pulse 4
+MPI_210529056_a.xim - IP field, plus 62 mT, C+
+MPI_210529057_a.xim - IP field, plus 62 mT, C-
+
+Pulse 5
+MPI_210529059_a.xim - IP field, plus 62 mT, C-
+MPI_210529060_a.xim - IP field, plus 62 mT, C+
+
+Pulse 6
+MPI_210529061_a.xim - IP field, plus 62 mT, C+
+MPI_210529062_a.xim - IP field, plus 62 mT, C-
+
+Pulse 7
+MPI_210529063_a.xim - IP field, plus 62 mT, C-
+MPI_210529064_a.xim - IP field, plus 62 mT, C+
+
+Pulse 8
+MPI_210529065_a.xim - IP field, plus 62 mT, C+
+MPI_210529066_a.xim - IP field, plus 62 mT, C-
+
+Pulse 9
+MPI_210529067_a.xim - IP field, plus 62 mT, C-
+MPI_210529068_a.xim - IP field, plus 62 mT, C+
+
+Pulse 10
+MPI_210529069_a.xim - IP field, plus 62 mT, C+
+MPI_210529070_a.xim - IP field, plus 62 mT, C-
+
+Pulse 11
+MPI_210529071_a.xim - IP field, plus 62 mT, C-
+MPI_210529072_a.xim - IP field, plus 62 mT, C+
