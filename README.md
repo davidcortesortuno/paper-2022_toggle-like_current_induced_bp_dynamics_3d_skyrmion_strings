@@ -1,4 +1,4 @@
-Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4384569.svg)](https://doi.org/10.5281/zenodo.4384569)
+Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6393341.svg)](https://doi.org/10.5281/zenodo.6393341)
 
 # Data Set
 
@@ -116,10 +116,10 @@ If you find this material useful please cite us (you might need the LaTeX's
     @Misc{Birch2021,
       author       = {M. T. Birch and D. Cort\'es-Ortu\~no},
       title        = {{Data set for: Toggle-like current-induced Bloch point dynamics of 3D skyrmion strings in a room-temperature nanowire}},
-      howpublished = {Zenodo \url{doi:10.5281/zenodo.XXXX}. Github: \url{https://github.com/davidcortesortuno/paper-2022_toggle-like_current_induced_bp_dynamics_3d_skyrmion_strings}},
+      howpublished = {Zenodo \url{doi:10.5281/zenodo.6393341}. Github: \url{https://github.com/davidcortesortuno/paper-2022_toggle-like_current_induced_bp_dynamics_3d_skyrmion_strings}},
       year         = {2022},
-      doi          = {10.5281/zenodo.XXX},
-      url          = {https://doi.org/10.5281/zenodo.XXXX},
+      doi          = {10.5281/zenodo.6393341},
+      url          = {https://doi.org/10.5281/zenodo.6393341},
     }
 
 # References
