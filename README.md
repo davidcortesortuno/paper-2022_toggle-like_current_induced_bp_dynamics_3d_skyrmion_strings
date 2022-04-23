@@ -76,9 +76,9 @@ There are different simulations in the [sims/mumax3/](sims/mumax3) directory
 Notebooks where the energy of the configurations is analysed and where
 visualisations of the configurations are shown, can be found in the
 [data_analysis](data_analysis) directory. Data analysis of the MuMax3 [2]
-simulation outputs is performed using the OOMMFPy library [5] Plots of the
+simulation outputs is performed using the OOMMFPy library [5]. Plots of the
 simulations are performed using Matplotlib [3]. Data analysis is done via Numpy
-arrays [4]. 
+arrays [4]. Visualizations are done using Paraview [6] and PyVista [7].
 
 In the notebooks the main method is to compute the mean value of the out of
 plane component of the magnetization across the film thickness, which is in the
@@ -145,3 +145,10 @@ with NumPy. Nature 585, 357–362 (2020). DOI: 0.1038/s41586-020-2649-2.
 
 [5] Cortés-Ortuño, D. OOMMFPy Python module. doi: 10.5281/zenodo.2611194 (2019).
 [https://github.com/davidcortesortuno/oommfpy]
+
+[6] Ayachit, U. The ParaView Guide: A Parallel Visualization Application,
+Kitware, 2015, ISBN 978-1930934306
+
+[7] Sullivan et al. PyVista: 3D plotting and mesh analysis through a
+streamlined interface for the Visualization Toolkit (VTK). Journal of Open
+Source Software, 4(37), 1450 (2019).
