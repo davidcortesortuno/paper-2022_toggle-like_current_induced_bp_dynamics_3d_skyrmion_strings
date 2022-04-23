@@ -1,4 +1,7 @@
 Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6393341.svg)](https://doi.org/10.5281/zenodo.6393341)
+![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]
+
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # Data Set
 
@@ -8,7 +11,9 @@ dynamics of 3D skyrmion strings in a room-temperature nanowire* by M. T. Birch,
 D. Cortés-Ortuño, K. Litzius, S. Wintz, F. Schulz, M. Weigand, A. Štefančič, D.
 Mayoh, G. Balakrishnan, P.D. Hatton, G. Schütz.
 
-![](images/sk_transition.jpg)
+![](data_analysis/twotubes.png)
+
+---
 
 # Experimental data
 
