@@ -1,4 +1,4 @@
-Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6393341.svg)](https://doi.org/10.5281/zenodo.6393341)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6393341.svg)](https://doi.org/10.5281/zenodo.6393341)
 ![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]
 
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
@@ -9,7 +9,8 @@ This repository contains both the experimental data and the simulation scripts
 to reproduce the results of [1]: *Toggle-like current-induced Bloch point
 dynamics of 3D skyrmion strings in a room-temperature nanowire* by M. T. Birch,
 D. Cortés-Ortuño, K. Litzius, S. Wintz, F. Schulz, M. Weigand, A. Štefančič, D.
-Mayoh, G. Balakrishnan, P.D. Hatton, G. Schütz.
+Mayoh, G. Balakrishnan, P.D. Hatton, G. Schütz. A preprint version of this
+publication can be found at https://www.researchsquare.com/article/rs-1235546/v1
 
 ![](data_analysis/twotubes.png)
 
@@ -131,8 +132,8 @@ If you find this material useful please cite us (you might need the LaTeX's
 
 [1]  Birch M, Cortés-Ortuño D, Litzius K, et al. Toggle-like current-induced
 Bloch point dynamics of 3D skyrmion strings in a room-temperature nanowire.
-Research Square; 2022. DOI: 10.21203/rs.3.rs-1235546/v1.
-[https://europepmc.org/article/ppr/ppr440740]
+Research Square; 2022. PREPRINT (Version 1). DOI: 10.21203/rs.3.rs-1235546/v1.
+https://www.researchsquare.com/article/rs-1235546/v1
 
 [2] Vansteenkiste, A. et al. The design and verification of MuMax3. AIP
 Advances 4, 107133 (2014).
